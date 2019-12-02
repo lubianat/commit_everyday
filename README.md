@@ -12,21 +12,6 @@ Automatic updates:
 ------------------
 
 Here we go:
-seg dez  2 17:49:16 -02 2019
-<br />
 *
-seg dez  2 17:49:38 -02 2019
-<br />
-*
-seg dez  2 17:49:49 -02 2019
-<br />
-*
-seg dez  2 18:06:11 -02 2019
-<br />
-bla
-bla
-bla
-bla
-*
-seg dez  2 18:14:01 -02 2019
+seg dez  2 18:15:01 -02 2019
 <br />
