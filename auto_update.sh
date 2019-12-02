@@ -1,5 +1,5 @@
 
-
+echo "------------"
 date >> README.md
 echo "<br />" >> README.md
 git add . 
