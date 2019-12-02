@@ -1,0 +1,2 @@
+MAILTO="tiagolubiana@hotmail.com"
+* * * * * bash ~/side/commit_everyday/auto_update.sh
