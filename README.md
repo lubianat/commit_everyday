@@ -9,30 +9,7 @@ This project is a hacky way to improve the appearance of efficiency. Its purpose
 It is for fun, and a message of not judging a book for its cover. Not everything that shines is gold, and quantitative productivity is not the same as being a code expert, or producing significant works (although they might be correlated to some degree). 
 
 Automatic updates:
-
-
-seg dez  2 17:28:48 -02 2019
-seg dez  2 17:30:59 -02 2019
-seg dez  2 17:31:16 -02 2019
-seg dez  2 17:31:59 -02 2019
-seg dez  2 17:32:34 -02 2019
-seg dez  2 17:32:51 -02 2019
-seg dez  2 17:33:14 -02 2019
-seg dez  2 17:33:42 -02 2019
-seg dez  2 17:33:58 -02 2019
-\n
-seg dez  2 17:35:43 -02 2019
-<br />
-seg dez  2 17:35:56 -02 2019
-<br />
-seg dez  2 17:36:43 -02 2019
-<br />
-seg dez  2 17:42:16 -02 2019
-<br />
-seg dez  2 17:46:50 -02 2019
-<br />
-seg dez  2 17:48:04 -02 2019
-<br />
-------------
-seg dez  2 17:48:20 -02 2019
+------------------
+*
+seg dez  2 17:49:16 -02 2019
 <br />
