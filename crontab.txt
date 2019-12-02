@@ -1,1 +1,1 @@
-* * * * * bash ~/side/commit_everyday/auto_update.sh
+18 18 * * * bash ~/side/commit_everyday/auto_update.sh

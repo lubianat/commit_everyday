@@ -8,13 +8,12 @@ This project is a hacky way to improve the appearance of efficiency. Its purpose
 
 It is for fun, and a message of not judging a book for its cover. Not everything that shines is gold, and quantitative productivity is not the same as being a code expert, or producing significant works (although they might be correlated to some degree). 
 
+It uses crontab in linux to schedule daily updates.
+
 Automatic updates:
 ------------------
 
 Here we go:
 *
-seg dez  2 18:15:01 -02 2019
-<br />
-*
-seg dez  2 18:16:01 -02 2019
+seg dez  2 18:18:01 -02 2019
 <br />

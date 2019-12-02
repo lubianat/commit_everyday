@@ -2,6 +2,8 @@ PATH=/home/lubianat/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
 cd ~/side/commit_everyday
 echo "*"  >> README.md
 date >> README.md
+
+echo " one more!"
 echo "<br />" >> README.md
 
 git add . 
