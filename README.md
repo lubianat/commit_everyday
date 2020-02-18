@@ -236,3 +236,6 @@ dom fev 16 18:18:01 -03 2020
 seg fev 17 18:18:01 -03 2020
  one more!
 <br />
+ter fev 18 18:18:01 -03 2020
+ one more!
+<br />
